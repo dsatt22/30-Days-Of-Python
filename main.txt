@@ -1,0 +1,7 @@
+30 DAYS OF PYTHON CHALLENGE
+
+-- I am going to be doing the 30-Days-Of-Python Challenge
+
+-- Each day will be its own file
+
+-- When complete with all 30 days, I will then build a program utilizing what I have learned
